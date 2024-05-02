@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flixster/static/css/main.99714956.css",
+    "main.js": "/flixster/static/js/main.bfd562a9.js",
+    "index.html": "/flixster/index.html",
+    "main.99714956.css.map": "/flixster/static/css/main.99714956.css.map",
+    "main.bfd562a9.js.map": "/flixster/static/js/main.bfd562a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99714956.css",
+    "static/js/main.bfd562a9.js"
+  ]
+}
