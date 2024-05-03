@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/flixster/static/css/main.c92cd7fc.css",
+    "main.css": "/flixster/static/css/main.a41662f1.css",
     "main.js": "/flixster/static/js/main.5f524edb.js",
     "index.html": "/flixster/index.html",
-    "main.c92cd7fc.css.map": "/flixster/static/css/main.c92cd7fc.css.map",
+    "main.a41662f1.css.map": "/flixster/static/css/main.a41662f1.css.map",
     "main.5f524edb.js.map": "/flixster/static/js/main.5f524edb.js.map"
   },
   "entrypoints": [
-    "static/css/main.c92cd7fc.css",
+    "static/css/main.a41662f1.css",
     "static/js/main.5f524edb.js"
   ]
 }
